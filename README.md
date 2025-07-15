@@ -21,7 +21,7 @@ A lightweight, interactive dashboard for exploring CSV datasets using [Streamlit
 ## 🖥️ Live App
 
 Try the app on Streamlit Cloud:\
-👉 [https://your-username-streamlit-data-explorer.streamlit.app](https://your-username-streamlit-data-explorer.streamlit.app) *(Replace with actual link after deployment)*
+👉 [https://pandas-matplotlib-dashboard.streamlit.app/](https://pandas-matplotlib-dashboard.streamlit.app/)
 
 ---
 
